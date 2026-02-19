@@ -3,8 +3,9 @@ name: phenomenological-stages
 description: A skill for identifying where a person, organization, or idea stands in the development of consciousness and understanding what transformation is required to advance.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4676
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - observational
 - phenomenological-stages
